@@ -1,0 +1,10 @@
+Rencana kerja April 2021
+-- Belajar OOP PHP
+-- Buat website portofolio
+
+Rencana kerja Mei 2021
+-- Belajar CI/Laravel
+-- Belajar UI/UX
+
+Rencana kerja Juni 2021
+-- Buat project
